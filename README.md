@@ -49,3 +49,4 @@ Welcome to **AI Puzzle Game** — a fun, category-based puzzle challenge where y
 ---
 
 Enjoy the game and see how high you can score! 🏅
+Link to game: https://tinyurl.com/ydxyv3pv
